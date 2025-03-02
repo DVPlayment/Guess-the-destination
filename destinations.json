@@ -1,0 +1,1202 @@
+[
+  {
+    "alias": "dst1",
+    "name": "Rome",
+    "clues": [
+      "Home to the Colosseum",
+      "Known as the Eternal City"
+    ],
+    "funFacts": [
+      "Has a country (Vatican City) within its borders.",
+      "Romans invented concrete."
+    ]
+  },
+  {
+    "alias": "dst2",
+    "name": "Bangkok",
+    "clues": [
+      "Known as the Venice of the East",
+      "Famous for street food and temples"
+    ],
+    "funFacts": [
+      "Its full ceremonial name is 168 letters long.",
+      "Bangkok has over 400 temples."
+    ]
+  },
+  {
+    "alias": "dst3",
+    "name": "Sydney",
+    "clues": [
+      "Famous for its Opera House",
+      "Harbor city with iconic beaches"
+    ],
+    "funFacts": [
+      "Bondi Beach is one of the most famous beaches.",
+      "Sydney has over 100 beaches."
+    ]
+  },
+  {
+    "alias": "dst4",
+    "name": "Sydney",
+    "clues": [
+      "Famous for its Opera House",
+      "Harbor city with iconic beaches"
+    ],
+    "funFacts": [
+      "Bondi Beach is one of the most famous beaches.",
+      "Sydney has over 100 beaches."
+    ]
+  },
+  {
+    "alias": "dst5",
+    "name": "Bangkok",
+    "clues": [
+      "Known as the Venice of the East",
+      "Famous for street food and temples"
+    ],
+    "funFacts": [
+      "Its full ceremonial name is 168 letters long.",
+      "Bangkok has over 400 temples."
+    ]
+  },
+  {
+    "alias": "dst6",
+    "name": "Los Angeles",
+    "clues": [
+      "City of Hollywood",
+      "Famous for film and entertainment"
+    ],
+    "funFacts": [
+      "Hollywood Walk of Fame has over 2,600 stars.",
+      "The city has the busiest port in the U.S."
+    ]
+  },
+  {
+    "alias": "dst7",
+    "name": "Cape Town",
+    "clues": [
+      "Famous for Table Mountain",
+      "A port city with stunning beaches"
+    ],
+    "funFacts": [
+      "Robben Island once held Nelson Mandela.",
+      "It has the world's largest bird park."
+    ]
+  },
+  {
+    "alias": "dst8",
+    "name": "Dubai",
+    "clues": [
+      "Home to the world's tallest building",
+      "Luxury shopping and desert safaris"
+    ],
+    "funFacts": [
+      "Burj Khalifa is 828 meters tall.",
+      "Has the world's biggest shopping mall."
+    ]
+  },
+  {
+    "alias": "dst9",
+    "name": "Cape Town",
+    "clues": [
+      "Famous for Table Mountain",
+      "A port city with stunning beaches"
+    ],
+    "funFacts": [
+      "Robben Island once held Nelson Mandela.",
+      "It has the world's largest bird park."
+    ]
+  },
+  {
+    "alias": "dst10",
+    "name": "Cape Town",
+    "clues": [
+      "Famous for Table Mountain",
+      "A port city with stunning beaches"
+    ],
+    "funFacts": [
+      "Robben Island once held Nelson Mandela.",
+      "It has the world's largest bird park."
+    ]
+  },
+  {
+    "alias": "dst11",
+    "name": "Bangkok",
+    "clues": [
+      "Known as the Venice of the East",
+      "Famous for street food and temples"
+    ],
+    "funFacts": [
+      "Its full ceremonial name is 168 letters long.",
+      "Bangkok has over 400 temples."
+    ]
+  },
+  {
+    "alias": "dst12",
+    "name": "Sydney",
+    "clues": [
+      "Famous for its Opera House",
+      "Harbor city with iconic beaches"
+    ],
+    "funFacts": [
+      "Bondi Beach is one of the most famous beaches.",
+      "Sydney has over 100 beaches."
+    ]
+  },
+  {
+    "alias": "dst13",
+    "name": "Dubai",
+    "clues": [
+      "Home to the world's tallest building",
+      "Luxury shopping and desert safaris"
+    ],
+    "funFacts": [
+      "Burj Khalifa is 828 meters tall.",
+      "Has the world's biggest shopping mall."
+    ]
+  },
+  {
+    "alias": "dst14",
+    "name": "Beijing",
+    "clues": [
+      "Capital of China",
+      "Home to the Forbidden City"
+    ],
+    "funFacts": [
+      "Great Wall of China is over 13,000 miles long.",
+      "Beijing has seven UNESCO heritage sites."
+    ]
+  },
+  {
+    "alias": "dst15",
+    "name": "Rome",
+    "clues": [
+      "Home to the Colosseum",
+      "Known as the Eternal City"
+    ],
+    "funFacts": [
+      "Has a country (Vatican City) within its borders.",
+      "Romans invented concrete."
+    ]
+  },
+  {
+    "alias": "dst16",
+    "name": "Rome",
+    "clues": [
+      "Home to the Colosseum",
+      "Known as the Eternal City"
+    ],
+    "funFacts": [
+      "Has a country (Vatican City) within its borders.",
+      "Romans invented concrete."
+    ]
+  },
+  {
+    "alias": "dst17",
+    "name": "London",
+    "clues": [
+      "Capital of England",
+      "Famous for Big Ben and red buses"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "It has the world's oldest underground railway."
+    ]
+  },
+  {
+    "alias": "dst18",
+    "name": "Sydney",
+    "clues": [
+      "Famous for its Opera House",
+      "Harbor city with iconic beaches"
+    ],
+    "funFacts": [
+      "Bondi Beach is one of the most famous beaches.",
+      "Sydney has over 100 beaches."
+    ]
+  },
+  {
+    "alias": "dst19",
+    "name": "Dubai",
+    "clues": [
+      "Home to the world's tallest building",
+      "Luxury shopping and desert safaris"
+    ],
+    "funFacts": [
+      "Burj Khalifa is 828 meters tall.",
+      "Has the world's biggest shopping mall."
+    ]
+  },
+  {
+    "alias": "dst20",
+    "name": "Beijing",
+    "clues": [
+      "Capital of China",
+      "Home to the Forbidden City"
+    ],
+    "funFacts": [
+      "Great Wall of China is over 13,000 miles long.",
+      "Beijing has seven UNESCO heritage sites."
+    ]
+  },
+  {
+    "alias": "dst21",
+    "name": "Beijing",
+    "clues": [
+      "Capital of China",
+      "Home to the Forbidden City"
+    ],
+    "funFacts": [
+      "Great Wall of China is over 13,000 miles long.",
+      "Beijing has seven UNESCO heritage sites."
+    ]
+  },
+  {
+    "alias": "dst22",
+    "name": "Cape Town",
+    "clues": [
+      "Famous for Table Mountain",
+      "A port city with stunning beaches"
+    ],
+    "funFacts": [
+      "Robben Island once held Nelson Mandela.",
+      "It has the world's largest bird park."
+    ]
+  },
+  {
+    "alias": "dst23",
+    "name": "Cape Town",
+    "clues": [
+      "Famous for Table Mountain",
+      "A port city with stunning beaches"
+    ],
+    "funFacts": [
+      "Robben Island once held Nelson Mandela.",
+      "It has the world's largest bird park."
+    ]
+  },
+  {
+    "alias": "dst24",
+    "name": "Bangkok",
+    "clues": [
+      "Known as the Venice of the East",
+      "Famous for street food and temples"
+    ],
+    "funFacts": [
+      "Its full ceremonial name is 168 letters long.",
+      "Bangkok has over 400 temples."
+    ]
+  },
+  {
+    "alias": "dst25",
+    "name": "Rome",
+    "clues": [
+      "Home to the Colosseum",
+      "Known as the Eternal City"
+    ],
+    "funFacts": [
+      "Has a country (Vatican City) within its borders.",
+      "Romans invented concrete."
+    ]
+  },
+  {
+    "alias": "dst26",
+    "name": "Cape Town",
+    "clues": [
+      "Famous for Table Mountain",
+      "A port city with stunning beaches"
+    ],
+    "funFacts": [
+      "Robben Island once held Nelson Mandela.",
+      "It has the world's largest bird park."
+    ]
+  },
+  {
+    "alias": "dst27",
+    "name": "Cape Town",
+    "clues": [
+      "Famous for Table Mountain",
+      "A port city with stunning beaches"
+    ],
+    "funFacts": [
+      "Robben Island once held Nelson Mandela.",
+      "It has the world's largest bird park."
+    ]
+  },
+  {
+    "alias": "dst28",
+    "name": "Rome",
+    "clues": [
+      "Home to the Colosseum",
+      "Known as the Eternal City"
+    ],
+    "funFacts": [
+      "Has a country (Vatican City) within its borders.",
+      "Romans invented concrete."
+    ]
+  },
+  {
+    "alias": "dst29",
+    "name": "London",
+    "clues": [
+      "Capital of England",
+      "Famous for Big Ben and red buses"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "It has the world's oldest underground railway."
+    ]
+  },
+  {
+    "alias": "dst30",
+    "name": "Cape Town",
+    "clues": [
+      "Famous for Table Mountain",
+      "A port city with stunning beaches"
+    ],
+    "funFacts": [
+      "Robben Island once held Nelson Mandela.",
+      "It has the world's largest bird park."
+    ]
+  },
+  {
+    "alias": "dst31",
+    "name": "Sydney",
+    "clues": [
+      "Famous for its Opera House",
+      "Harbor city with iconic beaches"
+    ],
+    "funFacts": [
+      "Bondi Beach is one of the most famous beaches.",
+      "Sydney has over 100 beaches."
+    ]
+  },
+  {
+    "alias": "dst32",
+    "name": "Los Angeles",
+    "clues": [
+      "City of Hollywood",
+      "Famous for film and entertainment"
+    ],
+    "funFacts": [
+      "Hollywood Walk of Fame has over 2,600 stars.",
+      "The city has the busiest port in the U.S."
+    ]
+  },
+  {
+    "alias": "dst33",
+    "name": "Los Angeles",
+    "clues": [
+      "City of Hollywood",
+      "Famous for film and entertainment"
+    ],
+    "funFacts": [
+      "Hollywood Walk of Fame has over 2,600 stars.",
+      "The city has the busiest port in the U.S."
+    ]
+  },
+  {
+    "alias": "dst34",
+    "name": "London",
+    "clues": [
+      "Capital of England",
+      "Famous for Big Ben and red buses"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "It has the world's oldest underground railway."
+    ]
+  },
+  {
+    "alias": "dst35",
+    "name": "Dubai",
+    "clues": [
+      "Home to the world's tallest building",
+      "Luxury shopping and desert safaris"
+    ],
+    "funFacts": [
+      "Burj Khalifa is 828 meters tall.",
+      "Has the world's biggest shopping mall."
+    ]
+  },
+  {
+    "alias": "dst36",
+    "name": "London",
+    "clues": [
+      "Capital of England",
+      "Famous for Big Ben and red buses"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "It has the world's oldest underground railway."
+    ]
+  },
+  {
+    "alias": "dst37",
+    "name": "London",
+    "clues": [
+      "Capital of England",
+      "Famous for Big Ben and red buses"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "It has the world's oldest underground railway."
+    ]
+  },
+  {
+    "alias": "dst38",
+    "name": "Rio de Janeiro",
+    "clues": [
+      "Home to Christ the Redeemer",
+      "Famous for its Carnival festival"
+    ],
+    "funFacts": [
+      "Copacabana Beach is world-famous.",
+      "It has the largest urban forest."
+    ]
+  },
+  {
+    "alias": "dst39",
+    "name": "Rio de Janeiro",
+    "clues": [
+      "Home to Christ the Redeemer",
+      "Famous for its Carnival festival"
+    ],
+    "funFacts": [
+      "Copacabana Beach is world-famous.",
+      "It has the largest urban forest."
+    ]
+  },
+  {
+    "alias": "dst40",
+    "name": "Bangkok",
+    "clues": [
+      "Known as the Venice of the East",
+      "Famous for street food and temples"
+    ],
+    "funFacts": [
+      "Its full ceremonial name is 168 letters long.",
+      "Bangkok has over 400 temples."
+    ]
+  },
+  {
+    "alias": "dst41",
+    "name": "Beijing",
+    "clues": [
+      "Capital of China",
+      "Home to the Forbidden City"
+    ],
+    "funFacts": [
+      "Great Wall of China is over 13,000 miles long.",
+      "Beijing has seven UNESCO heritage sites."
+    ]
+  },
+  {
+    "alias": "dst42",
+    "name": "Cape Town",
+    "clues": [
+      "Famous for Table Mountain",
+      "A port city with stunning beaches"
+    ],
+    "funFacts": [
+      "Robben Island once held Nelson Mandela.",
+      "It has the world's largest bird park."
+    ]
+  },
+  {
+    "alias": "dst43",
+    "name": "London",
+    "clues": [
+      "Capital of England",
+      "Famous for Big Ben and red buses"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "It has the world's oldest underground railway."
+    ]
+  },
+  {
+    "alias": "dst44",
+    "name": "London",
+    "clues": [
+      "Capital of England",
+      "Famous for Big Ben and red buses"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "It has the world's oldest underground railway."
+    ]
+  },
+  {
+    "alias": "dst45",
+    "name": "London",
+    "clues": [
+      "Capital of England",
+      "Famous for Big Ben and red buses"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "It has the world's oldest underground railway."
+    ]
+  },
+  {
+    "alias": "dst46",
+    "name": "Rome",
+    "clues": [
+      "Home to the Colosseum",
+      "Known as the Eternal City"
+    ],
+    "funFacts": [
+      "Has a country (Vatican City) within its borders.",
+      "Romans invented concrete."
+    ]
+  },
+  {
+    "alias": "dst47",
+    "name": "Beijing",
+    "clues": [
+      "Capital of China",
+      "Home to the Forbidden City"
+    ],
+    "funFacts": [
+      "Great Wall of China is over 13,000 miles long.",
+      "Beijing has seven UNESCO heritage sites."
+    ]
+  },
+  {
+    "alias": "dst48",
+    "name": "New York City",
+    "clues": [
+      "Home to Times Square and Broadway",
+      "Known as the Big Apple"
+    ],
+    "funFacts": [
+      "Statue of Liberty was a gift from France.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst49",
+    "name": "Los Angeles",
+    "clues": [
+      "City of Hollywood",
+      "Famous for film and entertainment"
+    ],
+    "funFacts": [
+      "Hollywood Walk of Fame has over 2,600 stars.",
+      "The city has the busiest port in the U.S."
+    ]
+  },
+  {
+    "alias": "dst50",
+    "name": "Rome",
+    "clues": [
+      "Home to the Colosseum",
+      "Known as the Eternal City"
+    ],
+    "funFacts": [
+      "Has a country (Vatican City) within its borders.",
+      "Romans invented concrete."
+    ]
+  },
+  {
+    "alias": "dst51",
+    "name": "Rome",
+    "clues": [
+      "Home to the Colosseum",
+      "Known as the Eternal City"
+    ],
+    "funFacts": [
+      "Has a country (Vatican City) within its borders.",
+      "Romans invented concrete."
+    ]
+  },
+  {
+    "alias": "dst52",
+    "name": "Los Angeles",
+    "clues": [
+      "City of Hollywood",
+      "Famous for film and entertainment"
+    ],
+    "funFacts": [
+      "Hollywood Walk of Fame has over 2,600 stars.",
+      "The city has the busiest port in the U.S."
+    ]
+  },
+  {
+    "alias": "dst53",
+    "name": "Bangkok",
+    "clues": [
+      "Known as the Venice of the East",
+      "Famous for street food and temples"
+    ],
+    "funFacts": [
+      "Its full ceremonial name is 168 letters long.",
+      "Bangkok has over 400 temples."
+    ]
+  },
+  {
+    "alias": "dst54",
+    "name": "Dubai",
+    "clues": [
+      "Home to the world's tallest building",
+      "Luxury shopping and desert safaris"
+    ],
+    "funFacts": [
+      "Burj Khalifa is 828 meters tall.",
+      "Has the world's biggest shopping mall."
+    ]
+  },
+  {
+    "alias": "dst55",
+    "name": "Bangkok",
+    "clues": [
+      "Known as the Venice of the East",
+      "Famous for street food and temples"
+    ],
+    "funFacts": [
+      "Its full ceremonial name is 168 letters long.",
+      "Bangkok has over 400 temples."
+    ]
+  },
+  {
+    "alias": "dst56",
+    "name": "London",
+    "clues": [
+      "Capital of England",
+      "Famous for Big Ben and red buses"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "It has the world's oldest underground railway."
+    ]
+  },
+  {
+    "alias": "dst57",
+    "name": "Los Angeles",
+    "clues": [
+      "City of Hollywood",
+      "Famous for film and entertainment"
+    ],
+    "funFacts": [
+      "Hollywood Walk of Fame has over 2,600 stars.",
+      "The city has the busiest port in the U.S."
+    ]
+  },
+  {
+    "alias": "dst58",
+    "name": "Bangkok",
+    "clues": [
+      "Known as the Venice of the East",
+      "Famous for street food and temples"
+    ],
+    "funFacts": [
+      "Its full ceremonial name is 168 letters long.",
+      "Bangkok has over 400 temples."
+    ]
+  },
+  {
+    "alias": "dst59",
+    "name": "Cape Town",
+    "clues": [
+      "Famous for Table Mountain",
+      "A port city with stunning beaches"
+    ],
+    "funFacts": [
+      "Robben Island once held Nelson Mandela.",
+      "It has the world's largest bird park."
+    ]
+  },
+  {
+    "alias": "dst60",
+    "name": "Bangkok",
+    "clues": [
+      "Known as the Venice of the East",
+      "Famous for street food and temples"
+    ],
+    "funFacts": [
+      "Its full ceremonial name is 168 letters long.",
+      "Bangkok has over 400 temples."
+    ]
+  },
+  {
+    "alias": "dst61",
+    "name": "London",
+    "clues": [
+      "Capital of England",
+      "Famous for Big Ben and red buses"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "It has the world's oldest underground railway."
+    ]
+  },
+  {
+    "alias": "dst62",
+    "name": "Dubai",
+    "clues": [
+      "Home to the world's tallest building",
+      "Luxury shopping and desert safaris"
+    ],
+    "funFacts": [
+      "Burj Khalifa is 828 meters tall.",
+      "Has the world's biggest shopping mall."
+    ]
+  },
+  {
+    "alias": "dst63",
+    "name": "London",
+    "clues": [
+      "Capital of England",
+      "Famous for Big Ben and red buses"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "It has the world's oldest underground railway."
+    ]
+  },
+  {
+    "alias": "dst64",
+    "name": "Los Angeles",
+    "clues": [
+      "City of Hollywood",
+      "Famous for film and entertainment"
+    ],
+    "funFacts": [
+      "Hollywood Walk of Fame has over 2,600 stars.",
+      "The city has the busiest port in the U.S."
+    ]
+  },
+  {
+    "alias": "dst65",
+    "name": "Rome",
+    "clues": [
+      "Home to the Colosseum",
+      "Known as the Eternal City"
+    ],
+    "funFacts": [
+      "Has a country (Vatican City) within its borders.",
+      "Romans invented concrete."
+    ]
+  },
+  {
+    "alias": "dst66",
+    "name": "Sydney",
+    "clues": [
+      "Famous for its Opera House",
+      "Harbor city with iconic beaches"
+    ],
+    "funFacts": [
+      "Bondi Beach is one of the most famous beaches.",
+      "Sydney has over 100 beaches."
+    ]
+  },
+  {
+    "alias": "dst67",
+    "name": "Rome",
+    "clues": [
+      "Home to the Colosseum",
+      "Known as the Eternal City"
+    ],
+    "funFacts": [
+      "Has a country (Vatican City) within its borders.",
+      "Romans invented concrete."
+    ]
+  },
+  {
+    "alias": "dst68",
+    "name": "Dubai",
+    "clues": [
+      "Home to the world's tallest building",
+      "Luxury shopping and desert safaris"
+    ],
+    "funFacts": [
+      "Burj Khalifa is 828 meters tall.",
+      "Has the world's biggest shopping mall."
+    ]
+  },
+  {
+    "alias": "dst69",
+    "name": "Beijing",
+    "clues": [
+      "Capital of China",
+      "Home to the Forbidden City"
+    ],
+    "funFacts": [
+      "Great Wall of China is over 13,000 miles long.",
+      "Beijing has seven UNESCO heritage sites."
+    ]
+  },
+  {
+    "alias": "dst70",
+    "name": "Rio de Janeiro",
+    "clues": [
+      "Home to Christ the Redeemer",
+      "Famous for its Carnival festival"
+    ],
+    "funFacts": [
+      "Copacabana Beach is world-famous.",
+      "It has the largest urban forest."
+    ]
+  },
+  {
+    "alias": "dst71",
+    "name": "Dubai",
+    "clues": [
+      "Home to the world's tallest building",
+      "Luxury shopping and desert safaris"
+    ],
+    "funFacts": [
+      "Burj Khalifa is 828 meters tall.",
+      "Has the world's biggest shopping mall."
+    ]
+  },
+  {
+    "alias": "dst72",
+    "name": "New York City",
+    "clues": [
+      "Home to Times Square and Broadway",
+      "Known as the Big Apple"
+    ],
+    "funFacts": [
+      "Statue of Liberty was a gift from France.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst73",
+    "name": "Bangkok",
+    "clues": [
+      "Known as the Venice of the East",
+      "Famous for street food and temples"
+    ],
+    "funFacts": [
+      "Its full ceremonial name is 168 letters long.",
+      "Bangkok has over 400 temples."
+    ]
+  },
+  {
+    "alias": "dst74",
+    "name": "New York City",
+    "clues": [
+      "Home to Times Square and Broadway",
+      "Known as the Big Apple"
+    ],
+    "funFacts": [
+      "Statue of Liberty was a gift from France.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst75",
+    "name": "Bangkok",
+    "clues": [
+      "Known as the Venice of the East",
+      "Famous for street food and temples"
+    ],
+    "funFacts": [
+      "Its full ceremonial name is 168 letters long.",
+      "Bangkok has over 400 temples."
+    ]
+  },
+  {
+    "alias": "dst76",
+    "name": "New York City",
+    "clues": [
+      "Home to Times Square and Broadway",
+      "Known as the Big Apple"
+    ],
+    "funFacts": [
+      "Statue of Liberty was a gift from France.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst77",
+    "name": "London",
+    "clues": [
+      "Capital of England",
+      "Famous for Big Ben and red buses"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "It has the world's oldest underground railway."
+    ]
+  },
+  {
+    "alias": "dst78",
+    "name": "New York City",
+    "clues": [
+      "Home to Times Square and Broadway",
+      "Known as the Big Apple"
+    ],
+    "funFacts": [
+      "Statue of Liberty was a gift from France.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst79",
+    "name": "Sydney",
+    "clues": [
+      "Famous for its Opera House",
+      "Harbor city with iconic beaches"
+    ],
+    "funFacts": [
+      "Bondi Beach is one of the most famous beaches.",
+      "Sydney has over 100 beaches."
+    ]
+  },
+  {
+    "alias": "dst80",
+    "name": "Dubai",
+    "clues": [
+      "Home to the world's tallest building",
+      "Luxury shopping and desert safaris"
+    ],
+    "funFacts": [
+      "Burj Khalifa is 828 meters tall.",
+      "Has the world's biggest shopping mall."
+    ]
+  },
+  {
+    "alias": "dst81",
+    "name": "Cape Town",
+    "clues": [
+      "Famous for Table Mountain",
+      "A port city with stunning beaches"
+    ],
+    "funFacts": [
+      "Robben Island once held Nelson Mandela.",
+      "It has the world's largest bird park."
+    ]
+  },
+  {
+    "alias": "dst82",
+    "name": "Sydney",
+    "clues": [
+      "Famous for its Opera House",
+      "Harbor city with iconic beaches"
+    ],
+    "funFacts": [
+      "Bondi Beach is one of the most famous beaches.",
+      "Sydney has over 100 beaches."
+    ]
+  },
+  {
+    "alias": "dst83",
+    "name": "Rio de Janeiro",
+    "clues": [
+      "Home to Christ the Redeemer",
+      "Famous for its Carnival festival"
+    ],
+    "funFacts": [
+      "Copacabana Beach is world-famous.",
+      "It has the largest urban forest."
+    ]
+  },
+  {
+    "alias": "dst84",
+    "name": "London",
+    "clues": [
+      "Capital of England",
+      "Famous for Big Ben and red buses"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "It has the world's oldest underground railway."
+    ]
+  },
+  {
+    "alias": "dst85",
+    "name": "Beijing",
+    "clues": [
+      "Capital of China",
+      "Home to the Forbidden City"
+    ],
+    "funFacts": [
+      "Great Wall of China is over 13,000 miles long.",
+      "Beijing has seven UNESCO heritage sites."
+    ]
+  },
+  {
+    "alias": "dst86",
+    "name": "London",
+    "clues": [
+      "Capital of England",
+      "Famous for Big Ben and red buses"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "It has the world's oldest underground railway."
+    ]
+  },
+  {
+    "alias": "dst87",
+    "name": "Sydney",
+    "clues": [
+      "Famous for its Opera House",
+      "Harbor city with iconic beaches"
+    ],
+    "funFacts": [
+      "Bondi Beach is one of the most famous beaches.",
+      "Sydney has over 100 beaches."
+    ]
+  },
+  {
+    "alias": "dst88",
+    "name": "Beijing",
+    "clues": [
+      "Capital of China",
+      "Home to the Forbidden City"
+    ],
+    "funFacts": [
+      "Great Wall of China is over 13,000 miles long.",
+      "Beijing has seven UNESCO heritage sites."
+    ]
+  },
+  {
+    "alias": "dst89",
+    "name": "Los Angeles",
+    "clues": [
+      "City of Hollywood",
+      "Famous for film and entertainment"
+    ],
+    "funFacts": [
+      "Hollywood Walk of Fame has over 2,600 stars.",
+      "The city has the busiest port in the U.S."
+    ]
+  },
+  {
+    "alias": "dst90",
+    "name": "London",
+    "clues": [
+      "Capital of England",
+      "Famous for Big Ben and red buses"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "It has the world's oldest underground railway."
+    ]
+  },
+  {
+    "alias": "dst91",
+    "name": "Beijing",
+    "clues": [
+      "Capital of China",
+      "Home to the Forbidden City"
+    ],
+    "funFacts": [
+      "Great Wall of China is over 13,000 miles long.",
+      "Beijing has seven UNESCO heritage sites."
+    ]
+  },
+  {
+    "alias": "dst92",
+    "name": "London",
+    "clues": [
+      "Capital of England",
+      "Famous for Big Ben and red buses"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "It has the world's oldest underground railway."
+    ]
+  },
+  {
+    "alias": "dst93",
+    "name": "Dubai",
+    "clues": [
+      "Home to the world's tallest building",
+      "Luxury shopping and desert safaris"
+    ],
+    "funFacts": [
+      "Burj Khalifa is 828 meters tall.",
+      "Has the world's biggest shopping mall."
+    ]
+  },
+  {
+    "alias": "dst94",
+    "name": "Rome",
+    "clues": [
+      "Home to the Colosseum",
+      "Known as the Eternal City"
+    ],
+    "funFacts": [
+      "Has a country (Vatican City) within its borders.",
+      "Romans invented concrete."
+    ]
+  },
+  {
+    "alias": "dst95",
+    "name": "Rome",
+    "clues": [
+      "Home to the Colosseum",
+      "Known as the Eternal City"
+    ],
+    "funFacts": [
+      "Has a country (Vatican City) within its borders.",
+      "Romans invented concrete."
+    ]
+  },
+  {
+    "alias": "dst96",
+    "name": "Dubai",
+    "clues": [
+      "Home to the world's tallest building",
+      "Luxury shopping and desert safaris"
+    ],
+    "funFacts": [
+      "Burj Khalifa is 828 meters tall.",
+      "Has the world's biggest shopping mall."
+    ]
+  },
+  {
+    "alias": "dst97",
+    "name": "London",
+    "clues": [
+      "Capital of England",
+      "Famous for Big Ben and red buses"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "It has the world's oldest underground railway."
+    ]
+  },
+  {
+    "alias": "dst98",
+    "name": "Rio de Janeiro",
+    "clues": [
+      "Home to Christ the Redeemer",
+      "Famous for its Carnival festival"
+    ],
+    "funFacts": [
+      "Copacabana Beach is world-famous.",
+      "It has the largest urban forest."
+    ]
+  },
+  {
+    "alias": "dst99",
+    "name": "New York City",
+    "clues": [
+      "Home to Times Square and Broadway",
+      "Known as the Big Apple"
+    ],
+    "funFacts": [
+      "Statue of Liberty was a gift from France.",
+      "Central Park is larger than Monaco."
+    ]
+  },
+  {
+    "alias": "dst100",
+    "name": "London",
+    "clues": [
+      "Capital of England",
+      "Famous for Big Ben and red buses"
+    ],
+    "funFacts": [
+      "London has over 170 museums.",
+      "It has the world's oldest underground railway."
+    ]
+  }
+]
